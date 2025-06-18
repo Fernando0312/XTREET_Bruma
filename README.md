@@ -36,7 +36,7 @@ Decisiones Técnicas
 -	Separé el backend y el frontend para permitir escalabilidad.
 -	Utilicé Zod para validaciones por su legibilidad y robustez.
 -	MongoDB Atlas fue el elegido por ser gratuito, flexible, con compatibilidad cloud y es el entorno con el que estoy más familiarizado de bases NoSql.
--	Render y Vercel se usaron por su facilidad de deploy gratuito.
+-	Render y Vercel se usaron por su facilidad de deploy gratuito, en cuanto a vercel tarda en responder cuando el servidor esta iactivo por lo que en ocaciones de inactividad su efectividad baja.
 -	React Hook Form se implementó para el manejo limpio y validado de formularios.
 -	TailwindCSS para dar un diseño responsivo, ligero y personalizable.
 -	Utilicé React ya que es el framework que conozco más y que tengo un poco de experiencia.
