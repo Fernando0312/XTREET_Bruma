@@ -39,6 +39,7 @@ Decisiones Técnicas
 -	Render y Vercel se usaron por su facilidad de deploy gratuito.
 -	React Hook Form se implementó para el manejo limpio y validado de formularios.
 -	TailwindCSS para dar un diseño responsivo, ligero y personalizable.
+-	Utilicé React ya que es el framework que conozco más y que tengo un poco de experiencia.
 
 Enlaces en Producción subidos a la nube
 •	Backend: https://xtreetback.onrender.com
